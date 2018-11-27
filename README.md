@@ -2,6 +2,8 @@
 
 An extension to the article ["Where is Europe's air safe to breathe?"](https://www.dw.com/en/where-is-europes-air-safe-to-breathe/a-46189571)
 
+**Idea, analysis, visualization:** [Kira Schacht](https://twitter.com/daten_drang)
+
 ### Data source
 
 [WHO Global Ambient Air Quality Database](http://www.who.int/airpollution/data/cities/en/), downloaded 30.10.2018.
